@@ -1,0 +1,111 @@
+
+ul img{
+    height: 50px;
+}
+li{
+    display:inline-block;
+    float:right;
+    padding: 20px;
+}
+.sub-head{
+    margin-top: 45px ;
+    padding: 20px;
+    width: 400px;
+    display: inline-block;
+    float:right;
+    padding: 20px;   
+}
+
+
+p{
+   
+    font-size: 18px;
+    width: 100%;
+}
+.image-2{
+    width: 100%;
+    height: 80%;
+    
+}
+.second-container{
+    display: flex;
+}
+.input{
+    height: 8%;
+    width: 40%;
+}
+.button{
+    height: 9%;
+    width: 40%;
+    background-color: rgb(68, 96, 223);
+    color: white;
+    cursor: pointer;
+}
+
+.second{
+    width:50%;
+}
+
+.image-3{
+    width:70%;
+    height: 80%;
+    float: inline-end;
+
+}
+.third-container{
+    display: flex; 
+    background-image: url(bg-curve-desktop.svg);  
+}
+
+.arrow{
+    color: rgb(24, 171, 171);
+    text-decoration: underline;
+}
+
+.paragraph{
+    
+    padding: 15px;
+    background-color: rgb(225, 231, 230);
+    width: 35%;
+}
+
+.avatar{
+    margin-top: 10px;
+    height: 10%;
+    width: 10%;
+    border-radius: 100px;
+}
+.name-ceo{
+    display: flex;
+}
+.sample{
+    margin-left: 20px;
+}
+.fifth-container{
+    display: flex;
+    
+    background-color: blueviolet; 
+    width: 100%;
+}
+.fifth-container p{
+    width: 50%;
+}
+.input-1{
+    height:40px;
+    width: 40%;
+    margin-left: 600px;
+    border-radius: 3px;
+    border: 0px;
+    
+}
+.button-1{
+    height:42px;
+    width: 20%;
+    background-color: rgb(68, 96, 223);
+    color: white;
+    cursor: pointer;
+    margin-left: 600px;
+    border-radius: 3px;
+    border: 0px;
+}
+
